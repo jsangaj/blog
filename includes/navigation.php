@@ -6,8 +6,7 @@
          <h1 style="color:white;"><b> Blog </b></h1>
         </div>
         <div class="col-3 search-top">
-          <!-- <a href="#"><span class="fa fa-search"></span></a> -->
-
+          <h2><a href="admin/" style="color: #fff !important;">Admin</a></h2>
         </div>
       </div>
     </div>
