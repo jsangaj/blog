@@ -1,10 +1,10 @@
 # blog 
 list of functionality
-  .insertion of posts
-  .insertion of comments
-  .displaying posts list
-  .display post detail
-  .display comments
+  1. insertion of posts
+  2. insertion of comments
+  3. displaying posts list
+  4. display post detail
+  5. display comments
   
   
   Getting started (installation)
@@ -12,7 +12,7 @@ list of functionality
   2. move files into working directory 
   3. import database to mysql (database located into folder blog/db/blog.sql)
   4. confirm connection then run the application
-  5. to access posting page use /admin
+  5. to access posting page use admin link right side navigation
   
   
   
