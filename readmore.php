@@ -51,7 +51,7 @@ $result = mysqli_query($connection, $query);
         if(isset($_GET['post'])){
           $p_id = $_GET['post'];
 
-                $query = "SELECT * FROM comment WHERE post_id = $p_id";
+                $query = "SELECT * FROM comment WHERE post_id = $p_id  AND status=1";
                 $result = mysqli_query($connection, $query);
                     }else{
                       header("Location:index.php");
